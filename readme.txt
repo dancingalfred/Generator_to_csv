@@ -1,0 +1,2 @@
+A simple program that generates a csv file with temperature and humidity readings on the hour for a set amount of days.
+I have also included a jypyter notebook if you want to experiment with the dataframe before convertine it to a csv file.
